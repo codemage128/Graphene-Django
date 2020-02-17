@@ -1,0 +1,1 @@
+dbfilename = "./plugin.db"
